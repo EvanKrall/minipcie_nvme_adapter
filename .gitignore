@@ -1,0 +1,8 @@
+pdfs
+.DS_Store
+._autosave*
+fp-info-cache
+*-bak
+_autosave*
+\#auto_saved_files\#
+minipcie_nvme_adapter-backups/
