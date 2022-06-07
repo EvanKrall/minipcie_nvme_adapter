@@ -6,3 +6,5 @@ fp-info-cache
 _autosave*
 \#auto_saved_files\#
 minipcie_nvme_adapter-backups/
+outputs
+outputs.zip
