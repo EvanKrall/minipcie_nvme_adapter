@@ -58,8 +58,7 @@
       "drc_exclusions": [
         "courtyards_overlap|168650001|71100001|d09fca4c-55e2-452c-818b-2a461bf643cc|f934a442-23d6-4e5b-908f-bb9199ad6f8b",
         "courtyards_overlap|169650001|78100001|b49d4886-5858-45d9-91aa-e4893360ac04|f934a442-23d6-4e5b-908f-bb9199ad6f8b",
-        "courtyards_overlap|170300001|85550001|bbe6d1fa-41f5-4203-bfc1-ec3317627975|f934a442-23d6-4e5b-908f-bb9199ad6f8b",
-        "items_not_allowed|177100000|79100000|f934a442-23d6-4e5b-908f-bb9199ad6f8b|00000000-0000-0000-0000-000000000000"
+        "courtyards_overlap|170300001|85550001|bbe6d1fa-41f5-4203-bfc1-ec3317627975|f934a442-23d6-4e5b-908f-bb9199ad6f8b"
       ],
       "meta": {
         "version": 2
@@ -116,7 +115,7 @@
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.19999999999999998,
-        "min_track_width": 0.19,
+        "min_track_width": 0.09,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
@@ -382,7 +381,7 @@
         "clearance": 0.127,
         "diff_pair_gap": 0.127,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.134874,
+        "diff_pair_width": 0.1016,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -397,7 +396,7 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.134874,
+        "track_width": 0.1016,
         "via_diameter": 0.45,
         "via_drill": 0.2,
         "wire_width": 6.0

@@ -8,3 +8,4 @@ _autosave*
 minipcie_nvme_adapter-backups/
 outputs
 outputs.zip
+*.kicad_prl

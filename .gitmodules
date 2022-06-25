@@ -1,3 +1,0 @@
-[submodule "kicad-mini-pci-express"]
-	path = kicad-mini-pci-express
-	url = git@github.com:mithro/kicad-mini-pci-express.git
